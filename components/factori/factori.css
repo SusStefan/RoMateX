@@ -1,0 +1,18 @@
+body{ 
+    margin:0px;
+}
+#sectiune
+{   position: absolute;
+    width: 100%;
+    height:20%;
+    background-color: aquamarine;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#texter
+{
+    color:white;
+    font-size: 700%;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}

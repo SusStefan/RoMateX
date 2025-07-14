@@ -1,0 +1,44 @@
+body{
+background-color: rgb(255, 255, 255);
+}
+#main_section{
+background-color: rgba(0, 110, 255, 0.178);
+position: absolute;
+left:200px;
+right:200px;
+top:200px;
+bottom: 130px;    
+}
+#selection
+{  position: fixed;
+   left:0px;
+   right:0px;
+   top:0px;
+   height:50px;
+   background-color:rgb(36, 131, 255);
+   opacity: 100%;
+   padding: 15px;
+
+}
+#home
+{  position: relative;
+   width:50px;
+   height:50px;
+}
+#home_select
+{   display: flex;
+    width:150px;
+    height:100px;
+    left:10px;
+    right:10px;
+    background-color: rgb(53, 135, 243);
+    align-items: center;
+    flex-direction: column;
+}
+#casuta
+{   position: relative;
+    font-size: 120%;
+    font-family: Calibri;
+    color:rgb(255, 255, 255);
+    float:right;
+}
